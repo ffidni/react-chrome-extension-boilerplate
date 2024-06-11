@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import '../assets/tailwind.css';
 
 const Options = () => {
-  return <div>options</div>;
+  return <div>Options Page</div>;
 };
 
 const container = document.createElement('div');
