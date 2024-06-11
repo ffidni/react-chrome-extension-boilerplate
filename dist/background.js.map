@@ -1,1 +1,0 @@
-{"version":3,"file":"background.js","mappings":"AAAA","sources":["webpack://niki-guard/./src/background/background.js"],"sourcesContent":["chrome.runtime.onInstalled.addListener(() => {\n  console.log('I just installed my chrome extension');\n});\n"],"names":[],"sourceRoot":""}

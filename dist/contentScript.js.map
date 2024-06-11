@@ -1,1 +1,0 @@
-{"version":3,"file":"contentScript.js","mappings":"AAAA","sources":["webpack://niki-guard/./src/contentScript/contentScript.js"],"sourcesContent":["window.onload = () => {\n  console.log('hellow');\n};\n"],"names":[],"sourceRoot":""}
